@@ -25,3 +25,4 @@ For example, if you run this:  "filegen.sh ./fakefilesandfolders 2,3,4 small"  t
 
 
 
+ 

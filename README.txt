@@ -53,7 +53,7 @@ tree
         └── file_4
 
 
-The above script created 8 directories, 24 files, 83.755472 GB
+The above script created 8 directories, 24 files, and it's total size is 83.755472 GB
 
 Also, here's some file size info from one of the second level dirs:
   axisfour@ubuntu:~/Documents/filetest/dir_1/dir_1$ ls -l --block-size=G

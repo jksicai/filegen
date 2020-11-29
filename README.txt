@@ -1,4 +1,4 @@
-This is a bash script to generate random nested directory files and was orginally written by nrgwsth.  This script uses dd command to generate files which means it's a bit slow depending on your inputs
+This is a bash script to generate random nested directory files and was orginally written by nrgwsth.  This script uses the dd command to generate files which means it's a bit slow depending on your inputs
 
 Usage: "./filegen.sh foldername 2,3,4 small"
 
